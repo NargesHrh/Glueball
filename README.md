@@ -1,1 +1,3 @@
 # Glueball
+ Glueballs are undiscovered particles made up of Gluons, and are one of many predictions of the particle physics' Standard Model.
+Here I will calculate their mass and current cuppling to QCD vaccum for 8 different Interpolating currents with the QCD Sum Rules method. For this, I will calculate a two-point correlation function in two momentum transfer regions: QCD side and physical or Hadronic side. After that, I will Analyze their possible decay channels, computing a three-point/light-cone correlation funcion. This may help laboratories to know where can find Glueballs with different quantum numbers.
